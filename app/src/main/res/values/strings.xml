@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stock (Beta)</string>
+
+    <string-array name="array_categorias">
+        <item>Contraplacado</item>
+        <item>MDF</item>
+        <item>Acrílico</item>
+        <item>Aglomerado</item>
+        <item>Policarbonato</item>
+    </string-array>
+
+
+    <string-array name="array_material">
+        <item>Mogno</item>
+        <item>Pinho</item>
+        <item>Choupo</item>
+        <item>Carvalho</item>
+        <item>Bétula</item>
+        <item>Faia</item>
+        <item>Eucalipto</item>
+    </string-array>
+</resources>

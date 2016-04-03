@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#8d251d</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="mcolorPrimary">#f44336</color>
+    <color name="mcolorPrimaryDark">#8d251d</color>
+    <color name="mcolorAccent">#a7ffeb</color>
+
+    <color name="corToolbar">#FF085074</color>
+    <color name="mcorBotao">#dab6282a</color>
+
+    <color name="mwindowBackground">@color/background_floating_material_light</color>
+    <color name="mbright_foreground_light">#000000</color>
+    <color name="mbright_foreground_light_disabled">#80000000</color>
+    <color name="mforeground_material_light">@color/foreground_material_light</color>
+
+</resources>
